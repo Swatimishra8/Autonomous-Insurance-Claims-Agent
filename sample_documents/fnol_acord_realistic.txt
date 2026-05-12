@@ -1,0 +1,168 @@
+ACORD AUTOMOBILE LOSS NOTICE
+ACORD 2 (2016/10)
+
+LINE OF BUSINESS: Personal Auto
+
+CARRIER: SafeGuard Insurance Company
+NAIC CODE: 12345
+POLICY NUMBER: PA-2024-567890
+
+INSURED LOCATION CODE: LOC-001
+DATE OF LOSS AND TIME: 05/01/2024 2:45 PM
+
+AGENCY
+NAME: Premium Insurance Agency
+ADDRESS: 456 Insurance Blvd, Suite 200, Chicago, IL 60601
+AGENCY CUSTOMER ID: AG-45678
+CODE: 123
+SUBCODE: 456
+PHONE (A/C, No): (312) 555-0100
+CONTACT: Jennifer Martinez
+E-MAIL: jmartinez@premiuminsure.com
+
+INSURED
+NAME OF INSURED (First, Middle, Last): Robert James Thompson
+INSURED'S MAILING ADDRESS: 789 Oak Street, Apartment 4B, Chicago, IL 60614
+DATE OF BIRTH: 03/15/1985
+PRIMARY PHONE #: (312) 555-0234 CELL
+SECONDARY: (312) 555-0235 HOME
+PRIMARY E-MAIL ADDRESS: rjthompson@email.com
+SECONDARY E-MAIL ADDRESS: robert.thompson85@gmail.com
+
+CONTACT INSURED
+NAME OF CONTACT (First, Middle, Last): Robert James Thompson
+CONTACT'S MAILING ADDRESS: 789 Oak Street, Apartment 4B, Chicago, IL 60614
+WHEN TO CONTACT: Anytime - Cell phone preferred
+PRIMARY PHONE #: (312) 555-0234 CELL
+PRIMARY E-MAIL ADDRESS: rjthompson@email.com
+
+LOCATION OF LOSS
+STREET: Intersection of Michigan Avenue and Roosevelt Road
+CITY, STATE, ZIP: Chicago, IL 60605
+COUNTRY: USA
+POLICE OR FIRE DEPARTMENT CONTACTED: Yes
+REPORT NUMBER: CPD-2024-051234
+
+DESCRIPTION OF ACCIDENT:
+Insured vehicle was traveling northbound on Michigan Avenue approaching the intersection with Roosevelt Road. Traffic light was green. As insured entered the intersection, another vehicle (2018 Honda Civic) ran the red light traveling eastbound on Roosevelt Road at high speed. The other vehicle struck the insured's vehicle on the right side (passenger side doors and rear quarter panel). Impact caused insured vehicle to spin approximately 180 degrees. Both vehicles sustained significant damage. Insured driver reported neck pain and was transported to Northwestern Memorial Hospital for evaluation. Passenger in insured vehicle (spouse) reported minor bruising from seatbelt. Other driver appeared uninjured but was cited by police for failure to obey traffic signal. Multiple witnesses stopped and provided statements to police. Weather was clear, road conditions dry.
+
+INSURED VEHICLE
+VEH #: 1
+YEAR: 2022
+MAKE: Toyota
+MODEL: Camry
+BODY TYPE: 4-Door Sedan
+V.I.N.: 4T1B11HK5NU123456
+STATE: IL
+PLATE NUMBER: ABC1234
+
+OWNER'S NAME AND ADDRESS: (Same as insured)
+Robert James Thompson
+789 Oak Street, Apartment 4B
+Chicago, IL 60614
+PRIMARY PHONE #: (312) 555-0234 CELL
+PRIMARY E-MAIL ADDRESS: rjthompson@email.com
+
+DRIVER'S NAME AND ADDRESS: (Same as insured)
+Robert James Thompson
+789 Oak Street, Apartment 4B
+Chicago, IL 60614
+RELATION TO INSURED: Self
+DATE OF BIRTH: 03/15/1985
+DRIVER'S LICENSE NUMBER: T123-4567-8901
+STATE: IL
+PURPOSE OF USE: Commuting to work
+USED WITH PERMISSION?: Y
+
+DESCRIBE DAMAGE: Extensive damage to right side of vehicle. Passenger side front door crushed inward approximately 8 inches. Passenger side rear door buckled. Right rear quarter panel bent and scraped. Right side windows shattered. Right side mirror torn off. Possible frame damage. Airbags deployed (side and passenger). Vehicle not drivable.
+
+ESTIMATE AMOUNT: $18,500.00
+
+WHERE CAN VEHICLE BE SEEN?: Joe's Auto Body & Towing, 234 Industrial Drive, Chicago, IL 60632
+WHEN CAN VEHICLE BE SEEN?: Monday-Friday 8AM-5PM, Saturday 9AM-2PM
+
+OTHER INSURANCE ON VEHICLE - CARRIER: None
+POLICY NUMBER: N/A
+
+CHILD PASSENGER RESTRAINT SYSTEM (CHILD SEAT):
+1. WAS A STANDARD CHILD PASSENGER RESTRAINT SYSTEM (CHILD SEAT) INSTALLED IN THE VEHICLE AT THE TIME OF THE ACCIDENT?: N
+2. WAS THE CHILD PASSENGER RESTRAINT SYSTEM (CHILD SEAT) IN USE BY A CHILD DURING THE TIME OF THE ACCIDENT?: N
+3. DID THE CHILD PASSENGER RESTRAINT SYSTEM (CHILD SEAT) SUSTAIN A LOSS AT THE TIME OF THE ACCIDENT?: N
+
+OTHER VEHICLE / PROPERTY DAMAGED
+VEH #: 2
+YEAR: 2018
+MAKE: Honda
+MODEL: Civic
+BODY TYPE: 2-Door Coupe
+V.I.N.: 2HGFC2F59JH123789
+STATE: IL
+PLATE NUMBER: XYZ5678
+
+DRIVER'S NAME AND ADDRESS:
+Michael Anderson
+1234 State Street
+Chicago, IL 60616
+PRIMARY PHONE #: (773) 555-0456 CELL
+PRIMARY E-MAIL ADDRESS: m.anderson@email.com
+
+OWNER'S NAME AND ADDRESS: (Same as driver)
+Michael Anderson
+1234 State Street
+Chicago, IL 60616
+
+DESCRIBE PROPERTY (Other Than Vehicle): 2018 Honda Civic
+DESCRIBE DAMAGE: Front end damage - hood crumpled, front bumper detached, headlights broken, radiator damaged, possible engine damage
+ESTIMATE AMOUNT: $12,000.00
+WHERE CAN DAMAGE BE SEEN?: City Impound Lot, 5678 South Halsted Street, Chicago, IL 60621
+
+OTHER VEH/PROP INS?: Y
+CARRIER OR AGENCY NAME: State Farm Insurance
+POLICY NUMBER: SF-789-456-123
+NAIC CODE: 25178
+
+INJURED
+NAME & ADDRESS:
+Robert James Thompson
+789 Oak Street, Apartment 4B, Chicago, IL 60614
+PHONE (A/C, No): (312) 555-0234
+VEH: INS VEH
+AGE: 39
+EXTENT OF INJURY: Neck pain, whiplash suspected, transported to Northwestern Memorial Hospital ER for evaluation. Released same day with muscle relaxants and pain medication prescribed.
+
+WITNESSES OR PASSENGERS
+NAME & ADDRESS:
+Sarah Thompson (Passenger/Spouse)
+789 Oak Street, Apartment 4B, Chicago, IL 60614
+PHONE (A/C, No): (312) 555-0234
+VEH: INS VEH
+
+NAME & ADDRESS:
+David Rodriguez (Witness)
+5555 Michigan Avenue, Chicago, IL 60605
+PHONE (A/C, No): (312) 555-7890
+
+NAME & ADDRESS:
+Lisa Chen (Witness)
+2222 Roosevelt Road, Chicago, IL 60608
+PHONE (A/C, No): (312) 555-8901
+
+REMARKS:
+- Police report filed, report number CPD-2024-051234
+- Other driver cited for running red light and reckless driving
+- Traffic light camera footage available from City of Chicago
+- Medical records from Northwestern Memorial Hospital to be forwarded
+- Insured has rental car coverage under policy
+- Total loss evaluation may be necessary depending on frame damage assessment
+- Collision coverage applies, $500 deductible
+- Injury claim to be handled by medical payments coverage
+
+REPORTED BY: Robert James Thompson (Insured)
+REPORTED TO: Premium Insurance Agency - Jennifer Martinez
+DATE REPORTED: 05/01/2024 4:15 PM (same day as accident)
+
+I hereby certify that the above statements are true and correct to the best of my knowledge and belief.
+
+Signature: _______________________ Date: 05/01/2024
+
+FRAUD WARNING: Any person who knowingly presents a false or fraudulent claim for payment of a loss or benefit or knowingly presents false information in an application for insurance is guilty of a crime and may be subject to fines and confinement in prison.

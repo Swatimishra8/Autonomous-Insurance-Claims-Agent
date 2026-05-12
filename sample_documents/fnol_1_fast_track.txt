@@ -1,0 +1,38 @@
+FIRST NOTICE OF LOSS (FNOL)
+================================
+
+POLICY INFORMATION
+------------------
+Policy Number: POL-2024-001234
+Policyholder Name: John Anderson
+Effective Date Start: 01/01/2024
+Effective Date End: 12/31/2024
+
+INCIDENT INFORMATION
+--------------------
+Incident Date: 04/15/2024
+Incident Time: 2:30 PM
+Location: 123 Main Street, Springfield, IL 62701
+Description: Minor rear-end collision at parking lot. Vehicle was stationary when hit by another car backing out. Minor damage to rear bumper and tail light.
+
+CLAIMANT INFORMATION
+--------------------
+Claimant Name: John Anderson
+Claimant Contact: john.anderson@email.com, (555) 123-4567
+
+THIRD PARTY INFORMATION
+-----------------------
+Third Party Name: Sarah Johnson
+Third Party Contact: sarah.j@email.com, (555) 987-6543
+
+ASSET DETAILS
+-------------
+Asset Type: Vehicle
+Asset ID: VIN-ABC123456789
+Estimated Damage: $3,500.00
+
+CLAIM DETAILS
+-------------
+Claim Type: Auto
+Attachments: photos_rear_bumper.jpg, photos_taillight.jpg
+Initial Estimate: $3,500.00

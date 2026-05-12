@@ -1,0 +1,38 @@
+FIRST NOTICE OF LOSS (FNOL)
+================================
+
+POLICY INFORMATION
+------------------
+Policy Number: POL-2024-011223
+Policyholder Name: Emily Thompson
+Effective Date Start: 01/15/2024
+Effective Date End: 01/14/2025
+
+INCIDENT INFORMATION
+--------------------
+Incident Date: 05/08/2024
+Incident Time: 8:15 AM
+Location: Intersection of 5th Avenue and Pine Street, Seattle, WA 98101
+Description: Multi-vehicle collision at intersection. Driver sustained neck and back injuries and was transported to hospital. Passenger also complained of head pain. Both received medical treatment at Seattle General Hospital Emergency Department.
+
+CLAIMANT INFORMATION
+--------------------
+Claimant Name: Emily Thompson
+Claimant Contact: emily.thompson@email.com, (555) 345-6789
+
+THIRD PARTY INFORMATION
+-----------------------
+Third Party Name: Michael Davis
+Third Party Contact: m.davis@email.com, (555) 456-7890
+
+ASSET DETAILS
+-------------
+Asset Type: Vehicle
+Asset ID: VIN-LMN456789012
+Estimated Damage: $12,000.00
+
+CLAIM DETAILS
+-------------
+Claim Type: Injury
+Attachments: medical_report.pdf, accident_scene_photos.jpg, police_report.pdf
+Initial Estimate: $12,000.00

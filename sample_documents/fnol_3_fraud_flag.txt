@@ -1,0 +1,38 @@
+FIRST NOTICE OF LOSS (FNOL)
+================================
+
+POLICY INFORMATION
+------------------
+Policy Number: POL-2024-009876
+Policyholder Name: Robert Chen
+Effective Date Start: 03/01/2024
+Effective Date End: 02/28/2025
+
+INCIDENT INFORMATION
+--------------------
+Incident Date: 05/10/2024
+Incident Time: 11:45 PM
+Location: 789 Oak Avenue, Los Angeles, CA 90001
+Description: Vehicle reported stolen from driveway. However, witness statements are inconsistent with the timeline provided. Neighbor reported seeing the vehicle being driven away by someone matching the owner's description. The circumstances appear staged and require further investigation.
+
+CLAIMANT INFORMATION
+--------------------
+Claimant Name: Robert Chen
+Claimant Contact: r.chen@email.com, (555) 234-5678
+
+THIRD PARTY INFORMATION
+-----------------------
+Third Party Name: N/A
+Third Party Contact: N/A
+
+ASSET DETAILS
+-------------
+Asset Type: Vehicle
+Asset ID: VIN-XYZ987654321
+Estimated Damage: $45,000.00
+
+CLAIM DETAILS
+-------------
+Claim Type: Auto
+Attachments: police_report.pdf
+Initial Estimate: $45,000.00

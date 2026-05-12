@@ -1,0 +1,43 @@
+{
+  "extractedFields": {
+    "policy_information": {
+      "policy_number": "POL-2024-001234",
+      "policyholder_name": "John Anderson",
+      "effective_date_start": "01/01/2024",
+      "effective_date_end": "12/31/2024"
+    },
+    "incident_information": {
+      "incident_date": "04/15/2024",
+      "incident_time": "2:30 PM",
+      "incident_location": "123 Main Street, Springfield, IL 62701",
+      "incident_description": "Minor rear-end collision at parking lot. Vehicle was stationary when hit by another car backing out. Minor damage to rear bumper and tail light."
+    },
+    "claimant": {
+      "name": "John Anderson",
+      "contact_details": "john.anderson@email.com, (555) 123-4567",
+      "role": "Claimant"
+    },
+    "third_parties": [
+      {
+        "name": "Sarah Johnson",
+        "contact_details": "sarah.j@email.com, (555) 987-6543",
+        "role": "Third Party"
+      }
+    ],
+    "asset_details": {
+      "asset_type": "Vehicle",
+      "asset_id": "VIN-ABC123456789",
+      "estimated_damage": 3500.0
+    },
+    "claim_type": "Auto",
+    "attachments": [
+      "photos_rear_bumper.jpg",
+      "photos_taillight.jpg"
+    ],
+    "initial_estimate": 3500.0,
+    "classification": "auto"
+  },
+  "missingFields": [],
+  "recommendedRoute": "Fast-track",
+  "reasoning": "Estimated damage ($3,500.00) is below $25,000 threshold"
+}
